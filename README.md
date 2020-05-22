@@ -11,7 +11,7 @@ Unsubscribe:
     Send email to `turingcell+unsubscribe@googlegroups.com`
 ```
 
-* 中文邮件列表[http://groups.google.com/group/turingcell-zh](http://groups.google.com/group/turingcell-zh)：
+* 中文邮件列表 [http://groups.google.com/group/turingcell-zh](http://groups.google.com/group/turingcell-zh)：
 
 ```
 订阅：
