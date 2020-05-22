@@ -24,7 +24,10 @@ Unsubscribe:
 
 ## Wechat Group
 
+```
+// TODO
+```
 
+## Contact
 
-
-
+You could also choose to contact me privately via this email address 00hnes@gmail.com.
