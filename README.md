@@ -25,7 +25,8 @@ Unsubscribe:
 ## Wechat Group
 
 ```
-// TODO
+Please send an email attached with your Wechat ID to me, then I would like to invite you into the group.
+请发送email给我并附上您的微信id，我将会邀请您到讨论组中，谢谢。
 ```
 
 ## Contact in Private
